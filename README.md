@@ -31,6 +31,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+## Experience
+
+**WorksHub** (Oct 2018 to Oct 2019)    
+*Talent Manager for JavaScript Works*  
+- Recruited JavaScript, Scala, and DevOps engineers across Europe.
+- Worked with a in-house development team to build features of our AI-driven online job platform.
+- Attended product meetings and gave feedback on user experiences. 
+- Learned JavaScript in order to better understand technical test feedback (and ended up loving coding in the process)
+
+**FMCG Executive** (September 2016 to August 2018)   
+*Senior Recruitment Consultant* 
+- Lead a team of 4 Recruiters in London.
+- Mentored and trained graduates to consultant level. 
+- Headed up business development
+- Held strategy meetings and gave presentations to Managing Directors. 
+
 ## Education
 
 #### Makers Academy (Oct 2019 to Feb 2020)
@@ -48,22 +64,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - 8 GCSEs: 4 A*'s, 1 A, 2 Bs, 1 C. 
 IT Certification: Distinction level. 
-
-## Experience
-
-**WorksHub** (Oct 2018 to Oct 2019)    
-*Talent Manager for JavaScript Works*  
-- Recruited JavaScript, Scala, and DevOps engineers across Europe.
-- Worked with a in-house development team to build features of our AI-driven online job platform.
-- Attended product meetings and gave feedback on user experiences. 
-- Learned JavaScript in order to better understand technical test feedback (and ended up loving coding in the process)
-
-**FMCG Executive** (September 2016 to August 2018)   
-*Senior Recruitment Consultant* 
-- Lead a team of 4 Recruiters in London.
-- Mentored and trained graduates to consultant level. 
-- Headed up business development
-- Held strategy meetings and gave presentations to Managing Directors. 
 
 ## Hobbies
 
