@@ -1,6 +1,6 @@
 ## Ben Sheridan-Edwards
 
-I'm an aspiring Full Stack Engineer looking to work with JavaScript's React framework on the front-end and Golang on the back-end. Currently a student at Makers Academy, I'm completely immersing myself in learning the principles of software development using Ruby and JavaScript to solve problems in clever and efficent ways through an array of different projects and challenges.
+I'm an aspiring Full Stack Engineer looking to work with JavaScript's React framework on the front-end and Golang on the back-end. Currently a student at Makers Academy, I'm completely immersing myself in learning the principles of software development using Ruby and JavaScript to solve problems in clever and efficent ways - through an array of different projects and challenges.
 
 ## Skills
 
@@ -35,31 +35,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (Oct 2019 to Feb 2020)
 
+- Ruby, Rails, JavaScript, React, Go
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript, Go
 - RSpec, Jasmine
 
-#### Oaklands College (start_date to end_date)
+#### Oaklands College (2013 to 2015)
 
 - A-Levels: Biology, Chemistry & Physics 
-- AAA
 
-#### Any other qualifications
+#### Goffs Academy (2007 - 2012)
 
-9 GCSEs: 4 A*'s, 2 As, 2 Bs, 1 C. 
+8 GCSEs: 4 A*'s, 1 A, 2 Bs, 1 C. 
 IT Certification: Distinction level. 
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**WorksHub** (Oct 2018 to Oct 2019)    
+*Talent Manager for JavaScript Works*  
+- Recruited JavaScript, Scala, and DevOps engineers across Europe.
+- Helped build an AI-driven online job platform.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**FMCG Executive** (September 2016 to August 2018)   
+*Senior Recruitment Consultant* 
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Skiing, Jiu-Jitsu, Reading, Meditation, Yoga, Gaming, Rock Climbing, and Strength Training.
