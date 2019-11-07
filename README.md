@@ -60,6 +60,10 @@ IT Certification: Distinction level.
 
 **FMCG Executive** (September 2016 to August 2018)   
 *Senior Recruitment Consultant* 
+- Lead a team of 4 Recruiters in London.
+- Mentored and trained graduates to consultant level. 
+- Headed up business development
+- Attended strategy meetings and gave presentations to the Managing Directors. 
 
 ## Hobbies
 
