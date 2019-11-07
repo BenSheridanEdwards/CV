@@ -21,6 +21,7 @@ Effective Communicator
 - Worked with a in-house development team to build features of our AI-driven online job platform.
 - Attended product meetings and gave feedback on user experiences. 
 - Learned JavaScript in order to better understand technical test feedback (and ended up loving coding in the process)
+- Wrote scripts and designed HubSpot workflows to automate processes.
 
 **FMCG Executive** (September 2016 to August 2018)   
 *Senior Recruitment Consultant* 
