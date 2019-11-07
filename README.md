@@ -63,7 +63,7 @@ IT Certification: Distinction level.
 - Lead a team of 4 Recruiters in London.
 - Mentored and trained graduates to consultant level. 
 - Headed up business development
-- Attended strategy meetings and gave presentations to Managing Directors. 
+- Held strategy meetings and gave presentations to Managing Directors. 
 
 ## Hobbies
 
