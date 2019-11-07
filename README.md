@@ -54,7 +54,9 @@ IT Certification: Distinction level.
 **WorksHub** (Oct 2018 to Oct 2019)    
 *Talent Manager for JavaScript Works*  
 - Recruited JavaScript, Scala, and DevOps engineers across Europe.
-- Helped build an AI-driven online job platform.
+- Worked with a in-house development team to build features of our AI-driven online job platform.
+- Attended product meetings and gave feedback on user experiences. 
+- Learned JavaScript in order to better understand technical test feedback (and ended up loving coding in the process)
 
 **FMCG Executive** (September 2016 to August 2018)   
 *Senior Recruitment Consultant* 
