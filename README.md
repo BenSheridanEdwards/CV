@@ -13,24 +13,6 @@ Self-Motivated & Disciplined
 Effective Communicator
 - For the past 4 years in a recruitment/sales role, I've learned to read social situations, fine tune my emotional intelligence, and communicate in a clear and effective way, while being empathetic and considerate to everyone involved in a discussion. As a natural introvert, being in this type of role has been the most challenging and rewarding experience of my life so far, and I now see it as one of my greatest assets. During my time as a recruiter, I've lead teams, trained gradutates to consultant level where they're self-suffient, and played a key role in the development of business strategies and client presentations. All these responsiblities required me to be humble, attentive and strategic in delivering communication at the right time, to the right people, with awareness of the wider content of various situations.  
 
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Experience
 
 **WorksHub** (Oct 2018 to Oct 2019)    
