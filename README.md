@@ -46,7 +46,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Goffs Academy (2007 - 2012)
 
-8 GCSEs: 4 A*'s, 1 A, 2 Bs, 1 C. 
+- 8 GCSEs: 4 A*'s, 1 A, 2 Bs, 1 C. 
 IT Certification: Distinction level. 
 
 ## Experience
